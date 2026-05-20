@@ -42,3 +42,8 @@ p{
     width: 10%;;
     margin: auto;
 }
+.counter-box
+{
+    color: aliceblue;
+    font-family: sans-serif;
+}
